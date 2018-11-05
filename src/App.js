@@ -3,6 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 
 import One from './one'
+import Uu from './uu'
 
 class App extends Component {
   render() {
@@ -23,6 +24,7 @@ class App extends Component {
           </a>
         </header>
         <One></One>
+        <uu></uu>
       </div>
     );
   }
