@@ -10,7 +10,7 @@ class Small extends Component{
               udiwdjwqoidjwq;odw
             </div>
             <p className='shige'>
-              他年我若帝，报与桃花
+              杨柳岸，晓风残月
             </p>
           </section>
         </div>
